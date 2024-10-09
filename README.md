@@ -1,5 +1,4 @@
-Análise de internações relacionado ao saneamento inadequado no Brasil em 2013 através de um Mapa de Calor. 
-
+Análise das internações hospitalares associadas ao saneamento inadequado no Brasil em 2013, representada por um mapa de calor.
 
 Dados: [Internações Saneamento.xlsx](https://github.com/user-attachments/files/17317090/Internacoes.Saneamento.xlsx)
 
